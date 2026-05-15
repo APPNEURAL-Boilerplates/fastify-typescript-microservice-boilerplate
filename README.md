@@ -1,4 +1,4 @@
-# Node.js Microservice Boilerplate
+# Fastify TypeScript Microservice
 
 Production-ready Node.js + TypeScript microservice boilerplate using Fastify.
 
@@ -109,7 +109,7 @@ docker compose up --build
 ## Folder structure
 
 ```txt
-nodejs-microservice-boilerplate/
+fastify-typescript-microservice/
 ├─ src/
 │  ├─ app.ts
 │  ├─ server.ts
