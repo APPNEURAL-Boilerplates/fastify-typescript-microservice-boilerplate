@@ -109,7 +109,7 @@ docker compose up --build
 ## Folder structure
 
 ```txt
-fastify-typescript-microservice/
+fastify-typescript-microservice-boilerplate/
 ├─ src/
 │  ├─ app.ts
 │  ├─ server.ts

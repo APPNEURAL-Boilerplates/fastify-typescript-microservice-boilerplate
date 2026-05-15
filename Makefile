@@ -25,4 +25,4 @@ docker-up:
 	docker compose up --build
 
 docker-build:
-	docker build -t fastify-typescript-microservice .
+	docker build -t fastify-typescript-microservice-boilerplate .
