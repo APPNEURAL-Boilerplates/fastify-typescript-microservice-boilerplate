@@ -1,5 +1,5 @@
 {
-  "name": "fastify-typescript-microservice-boilerplate",
+  "name": "@appneural/fastify-typescript-microservice-boilerplate",
   "version": "1.0.0",
   "description": "Production-ready Node.js TypeScript microservice boilerplate using Fastify.",
   "private": true,
